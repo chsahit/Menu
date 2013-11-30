@@ -5,12 +5,12 @@ public class Action1 extends Action{
 	
 	public Action1(String prompt) {
 		super(prompt);
-		// TODO Auto-generated constructor stub
 	}
 
+	//this is where the developer would write would each option would do
 	@Override
 	public void run() {
-		System.out.println("action 1 performed");
+		System.out.println("action 1 performed"); 
 	}
 	
 	
